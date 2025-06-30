@@ -1,9 +1,39 @@
-# Table of contents
-# Learn more at https://jupyterbook.org/customize/toc.html
-
 format: jb-book
 root: intro
-chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+parts:
+  - caption: Lời dẫn
+    chapters:
+      - file: 01-loi-dan
+  - caption: Tư tưởng
+    chapters:
+      - file: 02-tu-tuong/1-tai-sao-du-hoc
+      - file: 02-tu-tuong/2-boi-canh-vn-hq
+      - file: 02-tu-tuong/3-tong-quan-hoc-bong
+      - file: 02-tu-tuong/4-hoc-bong-phu-hop/4-1-chien-luoc-chon
+      - file: 02-tu-tuong/4-hoc-bong-phu-hop/4-2-nguon-thong-tin
+      - file: 02-tu-tuong/4-hoc-bong-phu-hop/4-3-lien-he-voi-ai
+  - caption: Chuẩn bị
+    chapters:
+      - file: 03-chuan-bi/1-bang-diem
+      - file: 03-chuan-bi/2-thanh-tich-ngoai-khoa
+      - file: 03-chuan-bi/3-kinh-nghiem-lam-viec
+  - caption: Rải hồ sơ và phỏng vấn
+    chapters:
+      - file: 04-rai-ho-so-va-phong-van/1-chien-luoc/1-1-khong-bo-trung
+      - file: 04-rai-ho-so-va-phong-van/1-chien-luoc/1-2-email-tra-loi
+      - file: 04-rai-ho-so-va-phong-van/2-phong-van/2-1-tam-li-thoai-mai
+      - file: 04-rai-ho-so-va-phong-van/2-phong-van/2-2-tra-loi-trung-thuc
+      - file: 04-rai-ho-so-va-phong-van/3-hau-phong-van/3-1-thu-cam-on
+      - file: 04-rai-ho-so-va-phong-van/3-hau-phong-van/3-2-can-than-deadline
+  - caption: Đạt học bổng và chuẩn bị sang Hàn
+    chapters:
+      - file: 05-sang-han/1-hop-phap-hoa
+      - file: 05-sang-han/2-giay-to
+      - file: 05-sang-han/3-nen-mang-gi
+  - caption: Case studies
+    chapters:
+      - file: 06-case-studies/1-snu
+      - file: 06-case-studies/2-yonsei
+      - file: 06-case-studies/3-korea
+      - file: 06-case-studies/4-skku
+      - file: 06-case-studies/5-ewha

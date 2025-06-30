@@ -2,7 +2,7 @@
 
 ## Chào mừng bạn!
 
-*Học bổng Hàn Quốc 101* là dự án được khởi xướng và vận hành bởi [The Viet Alunet](https://thevietalunet.wordpress.com/), cộng đồng những cựu sinh viên người Việt đang học tập và làm việc tại Hàn Quốc. Với tinh thần **pay-it-forward**, chúng tôi mong muốn chia sẻ kinh nghiệm và kiến thức để hỗ trợ thế hệ trẻ Việt Nam chinh phục các cơ hội học bổng tại Hàn Quốc.
+*Học bổng Hàn Quốc 101* là dự án được khởi xướng và vận hành bởi <a href="https://thevietalunet.wordpress.com/" target="_blank">The Viet Alunet</a>, cộng đồng những cựu sinh viên người Việt đang học tập và làm việc tại Hàn Quốc. Với tinh thần **pay-it-forward**, chúng tôi mong muốn chia sẻ kinh nghiệm và kiến thức để hỗ trợ thế hệ trẻ Việt Nam chinh phục các cơ hội học bổng tại Hàn Quốc.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/hocbonghanquoc101/hocbonghanquoc101.github.io/refs/heads/20250629/assets/img/home1-img.png" alt="Học bổng Hàn Quốc 101" width="300">
@@ -25,7 +25,7 @@ Cuốn sách dành cho:
 ## Hành trình của bạn bắt đầu từ đây
 
 Chúng tôi sẽ dẫn dắt bạn qua từng bước:
-1. **Tư tưởng**: Hiểu rõ lý do và bối cảnh du học Hàn Quốc.
+1. **Bối cảnh**: Hiểu rõ lý do và bối cảnh du học Hàn Quốc.
 2. **Chuẩn bị**: Xây dựng hồ sơ mạnh mẽ với bảng điểm, hoạt động ngoại khóa, và kinh nghiệm làm việc.
 3. **Rải hồ sơ và phỏng vấn**: Chiến lược nộp hồ sơ và kỹ năng phỏng vấn.
 4. **Đạt học bổng và chuẩn bị sang Hàn**: Các bước hoàn thiện giấy tờ và chuẩn bị hành lý.

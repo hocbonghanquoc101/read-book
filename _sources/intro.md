@@ -4,6 +4,10 @@
 
 *Học bổng Hàn Quốc 101* là dự án được khởi xướng bởi **The Viet Alunet**, một cộng đồng những học giả, nghiên cứu sinh Việt Nam đang học tập và làm việc tại Hàn Quốc. Với tinh thần **pay-it-forward**, chúng tôi mong muốn chia sẻ kinh nghiệm và kiến thức để hỗ trợ thế hệ trẻ Việt Nam chinh phục các cơ hội học bổng tại Hàn Quốc.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hocbonghanquoc101/hocbonghanquoc101.github.io/refs/heads/20250629/assets/img/home1-img.png" alt="Học bổng Hàn Quốc 101" width="400">
+</p>
+
 ## Mục tiêu của cuốn sách
 
 Cuốn sách này được thiết kế để:
